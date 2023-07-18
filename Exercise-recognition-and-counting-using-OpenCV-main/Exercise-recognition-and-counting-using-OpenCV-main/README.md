@@ -15,8 +15,8 @@ Its a Image processing based application for counting the exercises in real time
  
 <pre>
 ## Creater of the project
-Name - Chaitanya Kulkarni
-Email - chaitanya.kulkarni20@vit.edu
+Name - Kalyani Laddha
+Email - kalyani.laddha20@vit.edu
 Student- Vishwakarma institute of the technology(pune)
 Branch - Entc
 </pre>
